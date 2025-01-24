@@ -7,7 +7,7 @@ This Streamlit app uses Google Gemini to estimate the calorie content of food fr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Gorav22/Calory-Advisor
    ```
 2. **Install dependencies:**
    ```bash
