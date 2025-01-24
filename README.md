@@ -46,4 +46,3 @@ Contributions are welcome! Feel free to open issues and pull requests.
 ## License
 
 [MIT](LICENSE) (or specify your actual license)
-```
